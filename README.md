@@ -55,6 +55,6 @@ Este projeto foi desenvolvido apenas para fins de estudo e demonstração de hab
 
 ## 🖇️ Links
 
-Repositório: 
+Repositório: https://github.com/luancarlos13/Projeto-Spotify
 
-Deploy do Projeto: 
+Deploy do Projeto: https://luancarlos13.github.io/Projeto-Spotify/
